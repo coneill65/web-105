@@ -1,0 +1,29 @@
+div{
+    min-height: 150px;
+    width: 80%;
+    border: 3px solid black;
+    margin: 10px auto;
+    background-color: rgba(0, 0, 0, .7);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: auto;
+    color: white;
+}
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+h1{
+    text-align: center;
+    color: white;
+}
+h2{
+    text-align: center;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
